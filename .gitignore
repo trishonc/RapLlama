@@ -1,0 +1,11 @@
+.env
+util/
+scratch_files/
+rappers.txt
+__pycache__/
+data_files/
+train.py
+upload.ipynb
+checkpoint-9030
+adapter_model
+.idea
