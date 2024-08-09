@@ -1,7 +1,7 @@
 import requests
-
-
 from lxml import html
+
+
 def scrape_album_names(artist) -> list:
     for char in ['\'', '(', ')', ' ', '.']:
         artist = artist.replace(char, '' if char != ' ' else '-')
