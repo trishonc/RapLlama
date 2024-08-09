@@ -1,5 +1,4 @@
 .env
-util/
 scratch_files/
 rappers.txt
 __pycache__/
@@ -9,3 +8,4 @@ upload.ipynb
 checkpoint-9030
 adapter_model
 .idea
+.DS_Store
